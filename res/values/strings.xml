@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PullCity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btn_label_get">取得</string>
+
+    <!-- 都市名のリスト -->
+    <string-array name="city_name">
+        <item>大津</item>
+        <item>彦根</item>
+        <item>京都</item>
+        <item>舞鶴</item>
+        <item>大阪</item>
+        <item>神戸</item>
+        <item>豊岡</item>
+        <item>奈良</item>
+        <item>風屋</item>
+        <item>和歌山</item>
+        <item>潮岬</item>
+    </string-array>
+
+    <!-- 都市名に対応した都市番号 (例) 神戸 = 82 -->
+    <string-array name="city_id">
+        <item>250010</item>
+        <item>250020</item>
+        <item>260010</item>
+        <item>260020</item>
+        <item>270000</item>
+        <item>280010</item>
+        <item>280020</item>
+        <item>290010</item>
+        <item>290020</item>
+        <item>300010</item>
+        <item>300020</item>
+    </string-array>
+
+    <string name="title_activity_service_sample">ServiceSample</string>
+    <string name="title_activity_preference">PreferenceActivity</string>
+
+</resources>
